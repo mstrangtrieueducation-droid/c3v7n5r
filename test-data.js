@@ -841,7 +841,7 @@ const sections = [
     "key": "J",
     "label": "J",
     "title": "Complete the sentences. Add to, some, or a.",
-    "note": "Use each original picture to complete the invitation.",
+    "note": "Use each original picture to complete the invitation. Use the words or phrases in the box.",
     "points": 4,
     "questions": [
       {
@@ -892,6 +892,13 @@ const sections = [
         "image": "assets/test3-images/cake.png",
         "points": 1
       }
+    ],
+    "wordBank": [
+      "Ice cream with your cake",
+      "try some kiwi",
+      "go to the beach",
+      "cookie with milk",
+      "an apple with your cake"
     ]
   },
   {
